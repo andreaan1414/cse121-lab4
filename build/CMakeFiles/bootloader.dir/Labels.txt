@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/andreaarreortua/esp/lab4_2/build/CMakeFiles/bootloader
+/Users/andreaarreortua/esp/lab4_2/build/CMakeFiles/bootloader.rule
+/Users/andreaarreortua/esp/lab4_2/build/CMakeFiles/bootloader-complete.rule
+/Users/andreaarreortua/esp/lab4_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/andreaarreortua/esp/lab4_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/andreaarreortua/esp/lab4_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/andreaarreortua/esp/lab4_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/andreaarreortua/esp/lab4_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/andreaarreortua/esp/lab4_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/andreaarreortua/esp/lab4_2/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
